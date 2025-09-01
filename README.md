@@ -1,4 +1,4 @@
-# Insurance Premium Calculator API
+# Insurance Premium Calculator API (.Net Web Core API)
 
 ## Packages Used
 - Microsoft.EntityFrameworkCore
@@ -34,4 +34,28 @@ GET /api/policies
 
 
 
+# React + TypeScript
+
+## Packages Used
+- sass
+- react-router-dom
+
+---
+
+## Database Used
+- localStorage
+
+---
+
+## Logic Used
+- Context API (same approach as React RTK style)
+
+---
+
+## Run the project
+- npm install
+- npm run dev
+- open on http://localhost:5173
+
+---
 
